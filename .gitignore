@@ -1,0 +1,50 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Logs
+
+
+# Node modules (visible in your left sidebar)
+node_modules/
+
+# OS files
+.DS_Store
+
+# Environment / config
+.env
+*.env
+venv
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+
+# Large datasets (visible in your project: w3.csv, sales_data.csv, sample_sales_data.csv)
+# Remove these lines if you WANT to upload datasets
+
+*.xlsx
+
+# ML model outputs (in case you generate them)
+*.h5
+*.pkl
+*.pickle
+*.joblib
+*.pt
+*.model
+*.weights
+
+node_modules

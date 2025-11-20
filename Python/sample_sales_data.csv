@@ -1,0 +1,31 @@
+Transaction ID,Date,Product Category,Product Name,Units Sold,Unit Price,Total
+10001,2024-01-01,Electronics,iPhone 14 Pro,1,100.0,100.0
+10002,2024-01-02,Home Appliances,Air Fryer,2,103.75,207.5
+10003,2024-01-03,Clothing,Adidas Hoodie,3,107.5,322.5
+10004,2024-01-04,Books,The Alchemist,4,111.25,445.0
+10005,2024-01-05,Beauty Products,Lakme Lipstick,5,115.0,575.0
+10006,2024-01-06,Electronics,iPhone 14 Pro,1,118.75,118.75
+10007,2024-01-07,Home Appliances,Air Fryer,2,122.5,245.0
+10008,2024-01-08,Clothing,Adidas Hoodie,3,126.25,378.75
+10009,2024-01-09,Books,The Alchemist,4,130.0,520.0
+10010,2024-01-10,Beauty Products,Lakme Lipstick,5,133.75,668.75
+10011,2024-01-11,Electronics,iPhone 14 Pro,1,137.5,137.5
+10012,2024-01-12,Home Appliances,Air Fryer,2,141.25,282.5
+10013,2024-01-13,Clothing,Adidas Hoodie,3,145.0,435.0
+10014,2024-01-14,Books,The Alchemist,4,148.75,595.0
+10015,2024-01-15,Beauty Products,Lakme Lipstick,5,152.5,762.5
+10016,2024-01-16,Electronics,iPhone 14 Pro,1,156.25,156.25
+10017,2024-01-17,Home Appliances,Air Fryer,2,160.0,320.0
+10018,2024-01-18,Clothing,Adidas Hoodie,3,163.75,491.25
+10019,2024-01-19,Books,The Alchemist,4,167.5,670.0
+10020,2024-01-20,Beauty Products,Lakme Lipstick,5,171.25,856.25
+10021,2024-01-21,Electronics,iPhone 14 Pro,1,175.0,175.0
+10022,2024-01-22,Home Appliances,Air Fryer,2,178.75,357.5
+10023,2024-01-23,Clothing,Adidas Hoodie,3,182.5,547.5
+10024,2024-01-24,Books,The Alchemist,4,186.25,745.0
+10025,2024-01-25,Beauty Products,Lakme Lipstick,5,190.0,950.0
+10026,2024-01-26,Electronics,iPhone 14 Pro,1,193.75,193.75
+10027,2024-01-27,Home Appliances,Air Fryer,2,197.5,395.0
+10028,2024-01-28,Clothing,Adidas Hoodie,3,201.25,603.75
+10029,2024-01-29,Books,The Alchemist,4,205.0,820.0
+10030,2024-01-30,Beauty Products,Lakme Lipstick,5,208.75,1043.75

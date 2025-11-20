@@ -1,0 +1,31 @@
+Transaction ID,Date,Product Category,Product Name,Units Sold,Unit Price,Total,Region
+10005,2024-01-05,Books,Dune by Frank Herbert,2,1006.13,2012.26,Europe
+10006,2024-01-06,Beauty Products,Neutrogena Skincare Set,4,1772.33,7089.32,South America
+10007,2024-01-07,Sports,Manduka PRO Yoga Mat,3,1737.92,5213.76,North America
+10008,2024-01-08,Sports,Manduka PRO Yoga Mat,3,465.18,1395.54,North America
+10009,2024-01-09,Beauty Products,Chanel No. 5 Perfume,4,576.32,2305.28,South America
+10010,2024-01-10,Home Appliances,Ninja Professional Blender,2,2410.14,4820.28,Asia
+10011,2024-01-11,Electronics,Samsung Galaxy Tab S8,3,179.26,537.78,Europe
+10012,2024-01-12,Clothing,North Face Down Jacket,3,1047.93,3143.79,Asia
+10013,2024-01-13,Beauty Products,Neutrogena Skincare Set,2,2449.3,4898.6,Europe
+10014,2024-01-14,Books,"Salt, Fat, Acid, Heat by Samin Nosrat",5,2342.69,11713.45,Asia
+10015,2024-01-15,Beauty Products,Neutrogena Skincare Set,2,2341.84,4683.68,Asia
+10016,2024-01-16,Beauty Products,Olay Regenerist Face Cream,3,813.87,2441.61,Asia
+10017,2024-01-17,Home Appliances,Keurig K-Elite Coffee Maker,2,96.78,193.56,South America
+10018,2024-01-18,Sports,Manduka PRO Yoga Mat,4,1198.08,4792.32,Europe
+10019,2024-01-19,Beauty Products,Neutrogena Skincare Set,5,1729.1,8645.5,Asia
+10020,2024-01-20,Clothing,North Face Down Jacket,2,2336.3,4672.6,Europe
+10021,2024-01-21,Electronics,MacBook Pro 16-inch,3,57.38,172.14,South America
+10022,2024-01-22,Home Appliances,Blueair Classic 480i,4,2419.19,9676.76,North America
+10023,2024-01-23,Books,Gone Girl by Gillian Flynn,4,486.53,1946.12,North America
+10024,2024-01-24,Sports,Manduka PRO Yoga Mat,1,1419.17,1419.17,North America
+10025,2024-01-25,Beauty Products,Chanel No. 5 Perfume,1,497.91,497.91,Europe
+10026,2024-01-26,Sports,Manduka PRO Yoga Mat,3,1813.12,5439.36,South America
+10027,2024-01-27,Books,Gone Girl by Gillian Flynn,2,59.34,118.68,South America
+10028,2024-01-28,Beauty Products,Neutrogena Skincare Set,3,1223.99,3671.97,Asia
+10029,2024-01-29,Clothing,Nike Air Force 1,3,1922.31,5766.93,Asia
+10030,2024-01-30,Clothing,Nike Air Force 1,4,965.33,3861.32,North America
+10031,2024-01-31,Books,Dune by Frank Herbert,4,1241.54,4966.16,North America
+10032,2024-02-01,Sports,Wilson Evolution Basketball,5,1106.46,5532.3,North America
+10033,2024-02-02,Electronics,Samsung Galaxy Tab S8,2,544.05,1088.1,Asia
+10034,2024-02-03,Electronics,Samsung Galaxy Tab S8,5,2394.87,11974.35,Asia
