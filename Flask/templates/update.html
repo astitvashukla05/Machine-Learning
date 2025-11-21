@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <form method="POST" action="/updatetask/{{item['id']}}">
+      <input name="id" type="text" placeholder="id" value="{{item['id']}}" />
+      <input
+        name="name"
+        type="text"
+        placeholder="name"
+        value="{{item['name']}}"
+      />
+      <input
+        name="number"
+        type="number"
+        placeholder="number"
+        value="{{item['num']}}"
+      />
+      <button type="submit">Submit</button>
+    </form>
+  </body>
+</html>
