@@ -68,7 +68,7 @@
 # data.groupby(['meow,values'])['meow'].agg(['mean','sum','avg'])
 
 # import pandas as pd
-# from io import StringIO
+from io import StringIO
 # # # Merging and joining dataframes
 
 # # df1=pd.DataFrame({'keys':['A','B','C'],'Value1':[10,20,30]})
@@ -79,29 +79,30 @@
 # # print(data)
 
 
-# Data = '''
-# {
-#   "employee_name": "James",
-#   "email": "james@gmail.com",
-#   "job_profile": [
-#     {
-#       "title1": "Team Lead",
-#       "experience": 5
-#     },
-#     {
-#       "title2": "Sr. Developer",
-#       "experience": 3
-#     }
-#   ]
-# }
-# '''
-# # newD=pd.read_json(StringIO(Data))
-# # print(newD)
-# # newD.to_json() 
-# url='https://www.w3schools.com/html/html_tables.asp'
-# data=pd.read_html(url)
-# print(data[0])
-# data[0].to_csv('w3.csv',index='records')
+Data = '''
+{
+  "employee_name": "James",
+  "email": "james@gmail.com",
+  "job_profile": [
+    {
+      "title1": "Team Lead",
+      "experience": 5
+    },
+    {
+      "title2": "Sr. Developer",
+      "experience": 3
+    }
+  ]
+}
+'''
+import pandas as pd
+newD=pd.read_json(StringIO(Data))
+print(newD)
+newD.to_json() 
+url='https://www.w3schools.com/html/html_tables.asp'
+data=pd.read_html(url)
+print(data[0])
+data[0].to_csv('w3.csv',index='records')
 
 # MATPLOTLIB
 import matplotlib.pyplot as py
@@ -109,4 +110,4 @@ import matplotlib.pyplot as py
 x=[1,2,3,4,5]
 y=[1,4,9,16,25]
 
-print(py.plot(x,y))
+# print(py.plot(x,y))
